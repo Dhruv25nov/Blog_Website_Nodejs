@@ -33,4 +33,4 @@
 
 > Check out the deployed version
 
-[https://todolist-q3y4.onrender.com/](https://todolist-q3y4.onrender.com/)
+[https://soultalk.onrender.com/](https://soultalk.onrender.com/)
